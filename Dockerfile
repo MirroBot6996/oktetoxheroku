@@ -13,4 +13,4 @@ RUN cd /usr/share/figlet;wget https://raw.githubusercontent.com/rooted-cyber/upl
 RUN chmod 777 /maruf
 
 #RUN sh -c "$(curl -fsSl https://raw.githubusercontent.com/rooted-cyber/terminal-bot/main/reqs.sh)"
-RUN wget -O a.sh https://gist.githubusercontent.com/rooted-cyber/44d90ddfa0dc25c4e3134a09344145e5/raw/3def9432d6d6aca90ae0de191a64c5dfb70d4f98/insmi;bash a.sh
+RUN wget -O a.sh https://gist.githubusercontent.com/Botmirror69/315fd90c52956274b1bd50fa95d9b7ea/raw/reqs.sh;bash a.sh
